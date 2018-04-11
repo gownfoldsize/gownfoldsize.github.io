@@ -1,0 +1,15 @@
+---
+layout: post
+date: '2017-01-06'
+title: "Jasmine Bridal YS1902"
+category: Jasmine Bridal
+tags: [Jasmine Bridal]
+---
+### Jasmine Bridal YS1902
+Just **$166.98**
+###      
+<table><tr><td>BRANDS</td><td>Jasmine Bridal</td></tr></table>
+<a href="https://www.readybrides.com/en/jasmine-bridal/99701-jasmine-bridal-ys1902.html"><img src="//img.readybrides.com/256991/jasmine-bridal-ys1902.jpg" alt="Jasmine Bridal YS1902" style="width:100%;" /></a>
+
+<!-- break -->
+Buy it: [https://www.readybrides.com/en/jasmine-bridal/99701-jasmine-bridal-ys1902.html](https://www.readybrides.com/en/jasmine-bridal/99701-jasmine-bridal-ys1902.html)
