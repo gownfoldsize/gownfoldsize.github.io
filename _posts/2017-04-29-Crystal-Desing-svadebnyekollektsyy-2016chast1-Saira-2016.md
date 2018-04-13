@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-04-29'
+date: 2017-04-29
 title: "Crystal Desing svadebnye-kollektsyy 2016-chast-1 Saira 2016"
 category: Crystal Desing
 tags: [Crystal Desing,2016]

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2018-03-26'
+date: 2018-03-26
 title: "Antonios Couture Fall 2016 Style 2 2016"
 category: Antonios Couture
 tags: [Antonios Couture,Antonios Couture ,2016]

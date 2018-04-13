@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-05-10'
+date: 2016-05-10
 title: "Elisabetta Polignano EP - NANDI"
 category: Elisabetta Polignano
 tags: [Elisabetta Polignano]

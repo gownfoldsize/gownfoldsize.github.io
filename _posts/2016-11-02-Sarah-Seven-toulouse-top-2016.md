@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-11-02'
+date: 2016-11-02
 title: "Sarah Seven toulouse top 2016"
 category: Sarah Seven
 tags: [Sarah Seven,2016]
